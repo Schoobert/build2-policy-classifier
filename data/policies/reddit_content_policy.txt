@@ -1,0 +1,155 @@
+Reddit Content Policy
+Last Revised: September 12, 2023
+
+Reddit is a vast network of communities that are created, run, and populated by you, the Reddit
+users. Through these communities, you can post, comment, vote, discuss, learn, debate, support,
+and connect with people who share your interests, and we encourage you to find—or even create—your
+home on Reddit.
+
+While not every community may be for you (and you may find some unpleasant or even offensive),
+no community should be used as a weapon. Communities should create a sense of belonging for their
+members, not try to diminish or shame others.
+
+Likewise, everyone on Reddit should have an expectation of basic safety—so we have rules. Rules
+help ensure that all people can participate without fear.
+
+===========================================================================
+RULE 1: Remember the Human
+===========================================================================
+
+Reddit is a place for creating community and belonging, not for attacking marginalized or
+vulnerable groups of people. Everyone has a right to use Reddit free of harassment, bullying,
+and threats of violence.
+
+Communities and users that incite violence or that promote hate based on identity or
+vulnerability will be banned. This includes content that:
+
+- Promotes hatred against groups of people based on characteristics such as race, ethnicity,
+  national origin, gender, sexual orientation, religion, age, or disability status.
+- Calls for violence against specific people or groups of people.
+- Dehumanizes people based on their membership in a vulnerable group (e.g., using slurs
+  or portraying them as less than human).
+- Glorifies, celebrates, or condones incidents of violence against people based on the
+  above characteristics.
+
+===========================================================================
+RULE 2: Abide by Community Rules
+===========================================================================
+
+Post authentic content into communities where you have read the rules and where both the
+content and your actions are consistent with those rules.
+
+Individual communities may have rules in addition to the site-wide rules. Moderators may
+remove content that violates those community-specific rules, and communities may have their
+own enforcement practices within the bounds of Reddit policy.
+
+===========================================================================
+RULE 3: Respect the Privacy of Others
+===========================================================================
+
+Instigating harassment, for example by revealing someone's personal or confidential
+information, is not allowed. Never post or threaten to post intimate or sexually-explicit
+photos of someone without their consent. Posting of content that "doxes" another person
+(revealing personal information such as real name, address, workplace, phone number,
+or other private information) without their consent is prohibited.
+
+===========================================================================
+RULE 4: Do Not Post or Encourage the Posting of Sexual or Suggestive Content Involving Minors
+===========================================================================
+
+Reddit will not tolerate content that sexualizes minors or that facilitates or glorifies
+the sexual abuse of minors. This includes real content as well as illustrated or animated
+content such as hentai.
+
+This content includes but is not limited to:
+- Depictions, descriptions, or encouragement of sexual acts involving minors.
+- Content that "grooming" minors or facilitating access to minors for sexual purposes.
+- Links to communities or websites that host this type of content.
+
+===========================================================================
+RULE 5: You Don't Have to Use Your Real Name, But Don't Impersonate
+===========================================================================
+
+You don't have to use your real name to use Reddit, but don't impersonate an individual
+or an entity in a misleading or deceptive manner. This includes impersonating:
+- Reddit employees, moderators, or administrators.
+- Public figures (politicians, celebrities, executives, etc.) in a deceptive way.
+- Other Reddit users, including using their usernames or account details to deceive.
+- Legitimate brands and companies in a misleading way.
+
+===========================================================================
+RULE 6: Ensure People Have Predictable Experiences on Reddit
+===========================================================================
+
+Ensure people have predictable experiences on Reddit by properly labeling content and
+communities, particularly content that is graphic, sexually explicit, or offensive.
+
+- Communities containing adult content (nudity, explicit language, mature themes) must
+  be labeled NSFW (Not Safe for Work).
+- Graphic content depicting real-world violence, injury, or death should be properly
+  labeled or spoiler-tagged.
+- Content that may be offensive or disturbing but is otherwise permitted should be
+  labeled appropriately so users can make informed choices.
+
+===========================================================================
+RULE 7: Keep It Legal, and Avoid Posting Illegal Content
+===========================================================================
+
+Keep it legal, and avoid posting illegal content or soliciting or facilitating illegal
+or prohibited transactions.
+
+This includes:
+- Soliciting, offering to buy or sell, or facilitating transactions for illegal goods
+  or services (e.g., controlled substances, weapons, counterfeit goods).
+- Content that violates copyright or other intellectual property rights.
+- Posting content that constitutes defamation, impersonation, or other torts.
+- Content promoting, facilitating, or glorifying illegal activities that may harm people
+  (e.g., instructions for making weapons intended to harm people).
+
+===========================================================================
+RULE 8: Don't Break the Site or Do Anything That Interferes With Normal Use of Reddit
+===========================================================================
+
+Do not engage in activities that interfere with the normal functioning of Reddit or
+the experience of other users. This includes:
+- Using bots, scrapers, or other automated tools to interact with Reddit in
+  ways that violate Reddit's API terms of service or that create undue load on Reddit's
+  infrastructure.
+- Attempting to manipulate votes, comments, or other metrics through illegitimate means
+  (e.g., vote brigading, coordinated inauthentic behavior, purchasing votes or followers).
+- Creating multiple accounts to evade a ban or circumvent penalties.
+- Attempting to hack, phish, or gain unauthorized access to Reddit accounts or systems.
+- Attempting to buy, sell, or trade usernames, karma, awards, or other Reddit features.
+
+===========================================================================
+ENFORCEMENT
+===========================================================================
+
+Reddit has a variety of ways of enforcing our rules, including, but not limited to:
+- Asking nicely, because most Redditors are decent people.
+- Temporary or permanent suspension of accounts.
+- Removal of privileges from, or adding restrictions to, accounts.
+- Adding restrictions to Reddit communities, including making them private or
+  quarantined.
+- Removal of content.
+- Banning of Reddit communities.
+
+===========================================================================
+ADDITIONAL SITE-WIDE RULES
+===========================================================================
+
+Spam: Do not submit spam, self-promotion, or other content that disrupts the community
+experience. Excessive self-promotion, link farms, and content that exists solely to
+drive traffic or monetize without providing value to the community are prohibited.
+
+Prohibited Transactions: Do not use Reddit to solicit or facilitate:
+- The sale of accounts, karma, or votes.
+- The trade or gifting of items with real-world value through non-sanctioned means
+  (except in communities explicitly set up for this purpose, e.g., r/GiftofGames).
+- The purchase or sale of financial products, services, or advice in violation of
+  applicable laws or Reddit's Financial Content Policy.
+
+Sensitive Advertising Categories: Reddit does not permit ads that promote certain
+sensitive categories, including tobacco, illegal drugs, weapons, or misleading content.
+
+For more information, visit https://www.redditinc.com/policies/content-policy
