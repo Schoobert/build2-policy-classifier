@@ -1,3 +1,5 @@
+import json
+
 import anthropic
 from dotenv import load_dotenv
 
@@ -15,6 +17,13 @@ Verdict definitions:
 - "allowed": Content clearly complies with the policy.
 - "borderline": Content may or may not violate the policy; context or intent is ambiguous.
 - "violating": Content clearly violates one or more policy rules.
+
+When assessing content, apply the standard a professional Trust and Safety reviewer would use: \
+if content could reasonably be interpreted as hostile, threatening, or harmful by a targeted \
+person or group — even if it stops short of explicit policy language — classify it as borderline \
+minimum, not allowed. Do not require explicit threats or slurs to reach a borderline verdict. \
+Ambiguity should resolve toward caution, not permissiveness. Reserve "allowed" for content that \
+a reasonable T&S reviewer would have no hesitation approving.
 
 Always cite the specific section(s) from the policy that are most relevant to your verdict. \
 Reasoning must be 1-2 sentences.\
@@ -114,4 +123,7 @@ def classify(content: str, policy_document: str) -> ClassificationResult:
     if tool_block is None:
         raise ClassificationError("Model did not return a classification tool call.")
 
-    return ClassificationResult.model_validate(tool_block.input)
+    data = dict(tool_block.input)
+    if isinstance(data.get("cited_sections"), str):
+        data["cited_sections"] = json.loads(data["cited_sections"])
+    return ClassificationResult.model_validate(data)
