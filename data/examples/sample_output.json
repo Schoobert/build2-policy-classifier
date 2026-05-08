@@ -1,0 +1,14 @@
+{
+  "input_content": "I know where you live, @username. You better watch your back. I'm going to make your life miserable and everyone in this community will know what you did.",
+  "policy_document": "Reddit Content Policy",
+  "result": {
+    "verdict": "violating",
+    "confidence_score": 0.95,
+    "reasoning": "This content contains explicit threats, harassment, and intimidation tactics including claiming to know someone's location and threatening coordinated harassment. It clearly violates multiple policy provisions against harassment, bullying, and threatening behavior.",
+    "cited_sections": [
+      "Everyone has a right to use Reddit free of harassment, bullying, and threats of violence.",
+      "Harassing, bullying, or encouraging others to harass or bully individuals.",
+      "Revealing, or threatening to reveal, personally identifying information about someone."
+    ]
+  }
+}
