@@ -12,6 +12,10 @@ Content moderators and Trust and Safety teams make hundreds of policy decisions 
 
 It takes any piece of content and any written policy document and returns a structured verdict — **allowed**, **borderline**, or **violating** — with direct citations to the specific policy sections that support the judgment and a confidence score.
 
+![Screenshot](assets/screenshot.png)
+
+*Screenshot: example classification result showing a Violating verdict with policy citations.*
+
 ---
 
 ## Who It's For
@@ -28,12 +32,6 @@ Trust and Safety reviewers, content policy operators, and compliance teams at pl
 - Provides a confidence score (0.0–1.0) and confidence tier (Low / Medium / High)
 - Includes plain-language recommended actions for each verdict type
 - Ships with Reddit's Community Guidelines pre-loaded as a working demo
-
----
-
-## Screenshot
-
-[placeholder — add screenshot before publishing]
 
 ---
 
