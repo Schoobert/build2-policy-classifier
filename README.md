@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue) ![Claude API](https://img.shields.io/badge/Claude_API-Sonnet-blueviolet) ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red) ![Built by](https://img.shields.io/badge/Built_by-Derek_Pignatelli-black)
 
+**Live App:** [Try the tool](https://build2-policy-classifier.streamlit.app)
+
 **Loom Demo:** [Watch the demo](https://www.loom.com/share/4c7e31afa4544487bf8bfff60ad45233)
 
 ---
