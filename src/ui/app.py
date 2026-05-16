@@ -97,6 +97,8 @@ if "policy_text" not in st.session_state:
     st.session_state["policy_text"] = _load_default_policy()
 if "policy_source" not in st.session_state:
     st.session_state["policy_source"] = "Reddit Content Policy"
+if "content_input_value" not in st.session_state:
+    st.session_state["content_input_value"] = ""
 
 # ---------------------------------------------------------------------------
 # Header
@@ -172,13 +174,25 @@ st.caption(f"**Active policy:** {st.session_state['policy_source']}")
 # ---------------------------------------------------------------------------
 
 st.subheader("Content to Classify")
+st.caption("Try a sample:")
+samples = {
+    "Marathon achievement post": "Just finished my first marathon! Five years ago I couldn't run a mile. Hard work pays off — proud of this community for keeping me motivated.",
+    "Political frustration comment": "These politicians are all the same — corrupt, self-serving, and completely out of touch. Anyone who votes for them is an idiot who deserves what they get.",
+    "Threatening reply": "I know where you live and I'm going to make sure you regret posting that. Watch your back.",
+    "Giveaway promotion": "CLICK HERE for FREE iPhone giveaway!!! 🎁🎁🎁 Limited time! Share this to 10 subreddits to unlock your prize. DM me your email to claim.",
+}
+cols = st.columns(len(samples))
+for col, (label, text) in zip(cols, samples.items()):
+    if col.button(label, use_container_width=True):
+        st.session_state["content_input_value"] = text
+        st.rerun()
 content_input = st.text_area(
     label="content",
     label_visibility="collapsed",
     height=180,
-    placeholder="Paste the content to classify here.",
+    value=st.session_state["content_input_value"],
+    placeholder="Paste the content to classify here — or use a sample above.",
     max_chars=5000,
-    key="content_input",
 )
 
 classify_btn = st.button(
