@@ -7,7 +7,7 @@ from .models import ClassificationResult
 
 load_dotenv()
 
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "claude-sonnet-4-6"
 
 _SYSTEM_PROMPT = """\
 You are a content policy classifier. Given a policy document and a piece of content, \
